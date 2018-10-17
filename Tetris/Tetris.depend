@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1539127867 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\main.cpp
+	<iostream>
+	<string>
+	<thread>
+	<vector>
+	<stdio.h>
+	<Windows.h>
+
+1538945855 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\abstractentity.cpp
+	"AbstractEntity.hh"
+
+1538945894 c:\users\thuy dung\desktop\ecole\cpp\tetris\abstractentity.hh
+
+1539127262 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\piece.cpp
+	"Piece.hh"
+
+1539127290 c:\users\thuy dung\desktop\ecole\cpp\tetris\piece.hh
+	"AbstractEntity.hh"
+	<string>
+
+1538946805 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\itetrimino.cpp
+	"ITetrimino.hh"
+
+1538946843 c:\users\thuy dung\desktop\ecole\cpp\tetris\itetrimino.hh
+	"Piece.hh"
+
+1538946937 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\jtetrimino.cpp
+	"JTetrimino.hh"
+
+1538946993 c:\users\thuy dung\desktop\ecole\cpp\tetris\jtetrimino.hh
+	"Piece.hh"
+
+1538946923 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\ltetrimino.cpp
+	"LTetrimino.hh"
+
+1538947003 c:\users\thuy dung\desktop\ecole\cpp\tetris\ltetrimino.hh
+	"Piece.hh"
+
+1538946873 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\otetrimino.cpp
+	"OTetrimino.hh"
+
+1538947010 c:\users\thuy dung\desktop\ecole\cpp\tetris\otetrimino.hh
+	"Piece.hh"
+
+1539118234 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\piecefactory.cpp
+	"PieceFactory.hh"
+
+1539118500 c:\users\thuy dung\desktop\ecole\cpp\tetris\piecefactory.hh
+	<string>
+	"ITetromino.hh"
+	"JTetromino.hh"
+	"LTetromino.hh"
+	"OTetromino.hh"
+	"STetromino.hh"
+	"TTetromino.hh"
+	"ZTetromino.hh"
+
+1538947020 c:\users\thuy dung\desktop\ecole\cpp\tetris\stetrimino.hh
+	"Piece.hh"
+
+1538947028 c:\users\thuy dung\desktop\ecole\cpp\tetris\ttetrimino.hh
+	"Piece.hh"
+
+1538947036 c:\users\thuy dung\desktop\ecole\cpp\tetris\ztetrimino.hh
+	"Piece.hh"
+
+1538946972 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\stetrimino.cpp
+	"STetrimino.hh"
+
+1538946902 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\ttetrimino.cpp
+	"TTetrimino.hh"
+
+1538946957 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\ztetrimino.cpp
+	"ZTetrimino.hh"
+
+1539127219 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\itetromino.cpp
+	"ITetromino.hh"
+
+1539127128 c:\users\thuy dung\desktop\ecole\cpp\tetris\itetromino.hh
+	"Piece.hh"
+
+1539117486 c:\users\thuy dung\desktop\ecole\cpp\tetris\tetromino.hh
+	"AbstractEntity.hh"
+
+1539127359 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\jtetromino.cpp
+	"JTetromino.hh"
+
+1539127369 c:\users\thuy dung\desktop\ecole\cpp\tetris\jtetromino.hh
+	"Piece.hh"
+
+1539127423 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\otetromino.cpp
+	"OTetromino.hh"
+
+1539127411 c:\users\thuy dung\desktop\ecole\cpp\tetris\otetromino.hh
+	"Piece.hh"
+
+1539127329 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\ltetromino.cpp
+	"LTetromino.hh"
+
+1539127341 c:\users\thuy dung\desktop\ecole\cpp\tetris\ltetromino.hh
+	"Piece.hh"
+
+1539127439 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\stetromino.cpp
+	"STetromino.hh"
+
+1539127451 c:\users\thuy dung\desktop\ecole\cpp\tetris\stetromino.hh
+	"Piece.hh"
+
+1538947909 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\tetromino.cpp
+	"Tetromino.hh"
+
+1539127466 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\ttetromino.cpp
+	"TTetromino.hh"
+
+1539127477 c:\users\thuy dung\desktop\ecole\cpp\tetris\ttetromino.hh
+	"Piece.hh"
+
+1539127488 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\ztetromino.cpp
+	"ZTetromino.hh"
+
+1539127497 c:\users\thuy dung\desktop\ecole\cpp\tetris\ztetromino.hh
+	"Piece.hh"
+
+1538951146 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\tetrominofactory.cpp
+	"TetrominoFactory.hh"
+
+1538948558 c:\users\thuy dung\desktop\ecole\cpp\tetris\tetrominofactory.hh
+	<string>
+	"ITetromino.hh"
+	"JTetromino.hh"
+	"LTetromino.hh"
+	"OTetromino.hh"
+	"STetromino.hh"
+	"TTetromino.hh"
+	"ZTetromino.hh"
+
+1538951359 c:\users\thuy dung\desktop\ecole\cpp\tetris\manager.hh
+	<string>
+
+1538951370 source:c:\users\thuy dung\desktop\ecole\cpp\tetris\manager.cpp
+	"Manager.hh"
+
